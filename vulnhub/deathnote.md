@@ -1,4 +1,4 @@
-# Deathnote (VulnHub)
+# Deathnote 1(VulnHub)
 
 target IP : `10.1.1.4`
 
