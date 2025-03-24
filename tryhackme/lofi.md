@@ -69,6 +69,6 @@ I thought reading the whole scenario again & read this -
 
 so I thought that I might be able to read a file named `flag.txt` in the **root** of the filesystem i.e. where I found the `/etc/passwd` file
 
-![](![flag](https://github.com/user-attachments/assets/68ba4e94-2aca-4835-874c-5c03e3a19c44)
+![flag](https://github.com/user-attachments/assets/68ba4e94-2aca-4835-874c-5c03e3a19c44)
 
 And there is the flag!
