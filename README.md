@@ -11,5 +11,6 @@ Contains Notes for my work on CTFs &amp; other Ethical Hacking Platforms `If Sol
 - Directory Listing
   - Deathnote 1(VulnHub)
 - Path Traversal
+  - Lo-Fi (TryHackMe)
 - XSS
 - CSRF
