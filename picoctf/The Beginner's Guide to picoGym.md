@@ -2,7 +2,7 @@
 
 I've Finally Completed The Beginner's guide to picoGym, and interestingly it was worth it, learned a thing or two about reverse engineering and some other tools and concepts.
  - Successfully reverse engineered a Python Program & a C program through some debugging
- - Got to know that `grep` can be used recursively through `r` tag...
+ - Got to know that `grep` can be used recursively through `-r` tag
 
 Though Easy, it was engaging and fun to learn!
 
